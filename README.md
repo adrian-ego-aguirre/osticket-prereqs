@@ -58,6 +58,7 @@ This lab documents the prerequisites, installation, and configuration of <strong
 ---
 
 <h2>1️⃣ Prepare Windows 10 as a Web Server</h2>
+<img width="478" height="587" alt="01-iis-enabled" src="https://github.com/user-attachments/assets/ee4a23a5-f7f4-4916-94cd-9f23f3eb0e4d" />
 
 <p>
 Install and enable <strong>Internet Information Services (IIS)</strong>, including:
@@ -72,6 +73,7 @@ Install and enable <strong>Internet Information Services (IIS)</strong>, includi
 ---
 
 <h2>2️⃣ Install Prerequisite Software</h2>
+<img width="1028" height="612" alt="02-php-manager" src="https://github.com/user-attachments/assets/e67fd721-baa2-44ab-805d-e837c4174cf6" />
 
 <h3>Installation Steps</h3>
 
@@ -88,6 +90,7 @@ Install and enable <strong>Internet Information Services (IIS)</strong>, includi
       <li>Restart IIS</li>
     </ul>
   </li>
+<img width="933" height="590" alt="04-mysql-database" src="https://github.com/user-attachments/assets/0ac93952-b187-4bd2-b5e5-fe34ce25c3f7" />
 
   <li>Install MySQL:
     <ul>
@@ -110,6 +113,7 @@ Install and enable <strong>Internet Information Services (IIS)</strong>, includi
 ---
 
 <h2>3️⃣ Install osTicket</h2>
+<img width="839" height="775" alt="05-osticket-installer png" src="https://github.com/user-attachments/assets/ab6e6280-9a2f-4609-9368-ac7fdb1163dc" />
 
 <ol>
   <li>Download osTicket v1.15.8</li>
@@ -131,6 +135,7 @@ Verify installation:
 ---
 
 <h2>4️⃣ Enable PHP Extensions & Assign Permissions</h2>
+<img width="1026" height="609" alt="03-php-extensions" src="https://github.com/user-attachments/assets/70d42912-92c1-409a-a878-b9a2b1c610a6" />
 
 <h3>Enable PHP Extensions</h3>
 
@@ -158,6 +163,7 @@ Verify installation:
 ---
 
 <h2>5️⃣ Complete osTicket Installation</h2>
+<img width="843" height="694" alt="06-install-success png" src="https://github.com/user-attachments/assets/92112295-e544-4008-a757-876c5eb49fc9" />
 
 <ol>
   <li>Open osTicket in browser and click <strong>Continue</strong></li>
@@ -172,6 +178,7 @@ Verify installation:
 ---
 
 <h2>6️⃣ Verify Access</h2>
+<img width="966" height="382" alt="08-login" src="https://github.com/user-attachments/assets/46949845-6f25-417c-8932-afbeb9af8de3" />
 
 <ul>
   <li>
@@ -192,6 +199,7 @@ Verify installation:
 ---
 
 <h2>7️⃣ Post-Installation Security Cleanup</h2>
+<img width="1121" height="818" alt="07-setup-removed" src="https://github.com/user-attachments/assets/ec011c50-12fd-4764-a701-0a65384b3518" />
 
 <ol>
   <li>Delete setup directory:
