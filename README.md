@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket Logo"/>
 </p>
 
-<h1 align="center">osTicket – Prerequisites & Installation Lab</h1>
+<h1 align="center">osTicket – Phase 1: Prerequisites & Installation</h1>
 
 <p>
 This lab documents the prerequisites, installation, and configuration of <strong>osTicket</strong>, an open-source help desk ticketing system, deployed on a Windows 10 web server using IIS.
@@ -43,7 +43,7 @@ This lab documents the prerequisites, installation, and configuration of <strong
 
 ---
 
-<h1>📌 Overview</h1>
+<h1>📌 Phase 1 Overview – Prerequisites & Installation</h1>
 
 <ol>
   <li>Prepare Windows 10 by configuring it as a web server.</li>
