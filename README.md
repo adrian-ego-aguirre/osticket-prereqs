@@ -210,3 +210,19 @@ Verify installation:
   <li>Ticketing systems rely heavily on proper backend setup</li>
   <li>Post-installation security cleanup is critical</li>
 </ul>
+
+---
+
+<h2>📌 Conclusion</h2>
+
+<p>
+In this phase, osTicket was successfully installed and deployed on a Windows 10 system running IIS. All required dependencies—including PHP, MySQL, and supporting modules—were properly configured, and the application was verified to be accessible for both agents and end users.
+</p>
+
+<p>
+Post-installation security steps were completed to reduce risk, including removing setup files and locking down configuration permissions. With the core platform installed and secured, the environment is now prepared for further configuration.
+</p>
+
+<p>
+This concludes Phase 1 and establishes the foundation for Phase 2, where system roles, departments, SLAs, and workflows are configured to support real-world help desk operations.
+</p>
