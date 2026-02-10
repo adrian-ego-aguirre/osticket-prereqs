@@ -234,3 +234,17 @@ Post-installation security steps were completed to reduce risk, including removi
 <p>
 This concludes Phase 1 and establishes the foundation for Phase 2, where system roles, departments, SLAs, and workflows are configured to support real-world help desk operations.
 </p>
+
+---
+
+<h2>➡️ Next Phase</h2>
+
+<p>
+Continue to <strong>Phase 2: Post-Installation Configuration</strong>, where roles, departments, teams, SLAs, and help topics are configured to prepare osTicket for real-world operations.
+</p>
+
+<p>
+<a href="https://github.com/adrian-ego-aguirre/post-install-config">
+  ➜ Go to Phase 2: Post-Installation Configuration
+</a>
+</p>
